@@ -91,7 +91,7 @@ export const projects = [
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     //icons: [FaReact, FaCloud],
     //demo: "#",
-    code: "#",
+    code: "https://github.com/YasheeVerma/myPortfolio",
   },
  
 ];
